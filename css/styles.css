@@ -39,7 +39,8 @@ body {
   content: '';
   height: 1px;
   margin-bottom: 1.5rem;
-  margin-top: 1.5rem;
+  /*margin-top: 1.5rem;*/
+  margin-top: 1.0rem;
   transform-origin: center left;
   width: 4rem;
 }
