@@ -12,7 +12,8 @@ body {
 }
 
 #left {
-  padding: 7%;
+  /*padding: 7%;*/
+  padding: 3%;
 }
 
 /*#right {
@@ -39,8 +40,7 @@ body {
   content: '';
   height: 1px;
   margin-bottom: 1.5rem;
-  /*margin-top: 1.5rem;*/
-  margin-top: 1.0rem;
+  margin-top: 1.5rem;
   transform-origin: center left;
   width: 4rem;
 }
